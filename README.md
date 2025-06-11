@@ -9,13 +9,13 @@ Sebuah tool CLI interaktif untuk membersihkan folder "sampah" proyek (`node_modu
 ---
 
 > Success
-> ![Demo rnv-cleaner](gif/success.gif)
+> ![Demo rnv-cleaner](https://github.com/aldiipratama/rnv-cleaner/blob/main/gif/success.gif)
 
 > Canceled
-> ![Demo rnv-cleaner](gif/canceled.gif)
+> ![Demo rnv-cleaner](https://github.com/aldiipratama/rnv-cleaner/blob/main/gif/canceled.gif)
 
 > No Detect
-> ![Demo rnv-cleaner](gif/nodetect.gif)
+> ![Demo rnv-cleaner](https://github.com/aldiipratama/rnv-cleaner/blob/main/gif/nodetect.gif)
 
 ---
 
